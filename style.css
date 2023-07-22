@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.green {
+        background-color: aqua;
+        height: 160px;
+        width: 160px;
+}
+.blue {
+    background-color: bisque;
+    height: 160px;
+    width: 160px;
+}
+.img {
+    background-color: bisque;
+    height: 160px;
+    width: 160px;
+}
